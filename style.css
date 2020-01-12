@@ -71,7 +71,7 @@ body{
 .soon h1 {
 	text-align: center;
 	color: #fff;
-	font-size: 3em;
+	font-size: 2em;
 	font-family: 'lobster', cursive;
 	font-weight: 400;
 }
@@ -81,8 +81,8 @@ body{
 	font-weight: 400;
 	text-align: center;
   	margin: 0 auto;
-  	font-size: 1.2em;
-  	padding: 1.2em 0;
+  	font-size: 0.8em;
+  	padding: 0.8em 0;
 }
 .soon form{
 	margin: 0 auto;
@@ -123,18 +123,13 @@ input{
 }
 
 .count {
-    position:relative;
-    margin-bottom:6%;
-    right: 8%;
+    margin-bottom:10px;
     font-family: 'lobster', cursive;
 }
 .clock {
     font-size:75px;
     text-align:center;
 }
-.count h3 {
-    position: absolute;
-    right: 1%;
-    top: 60%;
+h3 {
     color: #ffffff;
 }
