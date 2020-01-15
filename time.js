@@ -1,7 +1,7 @@
 let colors = ["#40c2ed","#00969f", "#08a86a","#009fc2"]
 let i = 0;
 (function() {
-        var target_date = new Date("January 15, 2020").getTime();
+        var target_date = new Date("March 20, 2020").getTime();
          
         var days, hours, minutes, seconds, countdown = document.getElementById("countdown");
          
